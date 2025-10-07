@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alejandro!
 
-💻 Fullstack Developer | 🎓 Final-year Computer Science Student (Software Engineering specialization)  
+💻 Fullstack Developer | 🎓 Final-year Computer Science Student (Software Engineering)  
 
 ---
 
